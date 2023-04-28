@@ -4,7 +4,7 @@
 ### Creado por: Nuñez Vargas David Ignacio.
 
 ## ¿En que consiste?
-El videojuego consiste en controlar una figura y esquivar ciertos obstaculos que atravez del mouse aparecen por la pantalla de juego dandole click a la pantalla , estos obstaculos apareceran e bajaran por el campo de juego en direccion al circulo principal, los obstaculos apareceran y tendran cierta velocidad aleatoria.
+El videojuego consiste en controlar una figura y esquivar ciertos obstáculos que atrevés del mouse aparecen por la pantalla de juego dándole clic a la pantalla, estos obstáculos aparecerán y bajaran por el campo de juego en dirección al círculo principal, las figuras que tendrás que evitar aparecerán y tendrán cierta velocidad aleatoria.
 
 ## Herramientas que se utlizaron para el desarrollo:
 - vscode.
