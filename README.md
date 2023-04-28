@@ -1,4 +1,4 @@
-# figura1
+
 ## Juego Javascript
 
 ## ¿En que consiste?
