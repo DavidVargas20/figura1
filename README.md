@@ -10,6 +10,8 @@ El videojuego consiste en controlar una figura y esquivar ciertos obstaculos que
 - vscode.
 - p5js.
 - [npm](https://www.npmjs.com/package/draw-axis-p5js).
+- [p5/librerias](https://p5js.org/es/libraries/).
+- [p5/Ejemplos] (https://p5js.org/es/examples/).
 
 ## UML del videojuego:
 [UML](https://github.com/DavidVargas20/figura1/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
