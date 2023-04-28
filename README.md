@@ -16,5 +16,6 @@ El videojuego consiste en controlar una figura y esquivar ciertos obstáculos qu
 ## UML del videojuego:
 [UML](https://github.com/DavidVargas20/figura1/blob/main/Diagrama%20sin%20t%C3%ADtulo.drawio.png)
 
-## Codigo del juego (vscode):
-[p5js](https://github.com/DavidVargas20/figura1/tree/main/p5js(juego))
+## Codigo del juego:
+[VSCODE:](https://github.com/DavidVargas20/figura1/tree/main/p5js(juego))
+[P5JS:](https://editor.p5js.org/DavidVargas20/sketches/GkmMuVR6d)
