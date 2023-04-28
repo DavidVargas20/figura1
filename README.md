@@ -1,6 +1,8 @@
 
 ## Juego Javascript
 
+## Creado por: Nuñez Vargas David Ignacio.
+
 ## ¿En que consiste?
 El videojuego consiste en controlar una figura y esquivar ciertos obstaculos que atravez del mouse aparecen por la pantalla de juego dandole click a la pantalla , estos obstaculos apareceran e bajaran por el campo de juego en direccion al circulo principal, los obstaculos apareceran y tendran cierta velocidad aleatoria.
 
@@ -16,3 +18,5 @@ El videojuego consiste en controlar una figura y esquivar ciertos obstaculos que
 
 ## Codigo del juego (vscode):
 [p5js](https://github.com/DavidVargas20/figura1/tree/main/p5js(juego))
+
+## Seguire actualizando el proyecto.
