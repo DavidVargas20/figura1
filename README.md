@@ -1,6 +1,4 @@
 # figura1
-javascrpt
-
 ## Juego Javascript
 
 ## ¿En que consiste?
