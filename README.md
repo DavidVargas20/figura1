@@ -18,5 +18,3 @@ El videojuego consiste en controlar una figura y esquivar ciertos obstaculos que
 
 ## Codigo del juego (vscode):
 [p5js](https://github.com/DavidVargas20/figura1/tree/main/p5js(juego))
-
-## Seguire actualizando el proyecto.
